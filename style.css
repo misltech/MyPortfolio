@@ -1,0 +1,74 @@
+body {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 2%;
+    color: #8b949e;
+    background-color: #296c7c;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg %3E%3Ccircle fill='%23296c7c' cx='50' cy='0' r='50'/%3E%3Cg fill='%23247380' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%231e7a84' cx='50' cy='100' r='50'/%3E%3Cg fill='%231a8087' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%23198788' cx='50' cy='200' r='50'/%3E%3Cg fill='%231c8e89' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%23239489' cx='50' cy='300' r='50'/%3E%3Cg fill='%232c9b88' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%2337a186' cx='50' cy='400' r='50'/%3E%3Cg fill='%2343a783' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%2350ad80' cx='50' cy='500' r='50'/%3E%3Cg fill='%235eb37c' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%236cb878' cx='50' cy='600' r='50'/%3E%3Cg fill='%237bbd74' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%238bc270' cx='50' cy='700' r='50'/%3E%3Cg fill='%239bc76c' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%23accb68' cx='50' cy='800' r='50'/%3E%3Cg fill='%23bdcf65' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%23ced263' cx='50' cy='900' r='50'/%3E%3Cg fill='%23e0d562' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%23f3d762' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: contain;
+    font-family: 'Open Sans', sans-serif;
+    /* background by SVGBackgrounds.com */
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.8;
+}
+
+.social a {
+    color: #58a6ff;
+}
+
+.projects {
+    margin-top: 10px;
+}
+
+.contain {
+    background: aliceblue;
+    border-radius: 16px;
+    padding: 10px;
+}
+
+.within {
+    background: white;
+    border-radius: 16px;
+    padding: 10px;
+}
+
+.card {
+    padding: 0;
+    border-radius: 30px;
+}
+
+.card-img-top {
+    border-radius: 30px;
+}
+
+.card-body a {
+    border-radius: 30px;
+}
+
+.within-header {
+    max-width: 37%;
+    border-radius: 20px 20px 20px 20px;
+    background: aliceblue;
+    padding: 12px;
+    text-align: center;
+}
+
+
+/* .intro a {
+    transform: scale(2.5);
+    color: #58a6ff;
+} */
